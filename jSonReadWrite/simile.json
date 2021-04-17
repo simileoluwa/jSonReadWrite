@@ -1,0 +1,26 @@
+[
+    {
+        "ID": 1,
+        "name": "Emmanuel Hassan",
+        "age": 23,
+        "sex" : "male",
+        "language": ["JavaScript"]
+    },
+
+    {
+        "ID": 2,
+        "name": "Halimah Adejoro",
+        "age": 19,
+        "sex" : "female",
+        "language": ["Node.js"]
+    },
+
+    {
+        "ID": 3,
+        "name": "Moses Olaoni",
+        "age": 22,
+        "sex" : "male",
+        "language": ["Python"]
+    }
+]
+    

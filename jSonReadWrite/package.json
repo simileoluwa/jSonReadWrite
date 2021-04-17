@@ -1,0 +1,11 @@
+{
+  "name": "jsonreadwrite",
+  "version": "1.0.0",
+  "description": "This is a task set by my mentors in Zuri to declare a Read and Write file for Json",
+  "main": "index.js",
+  "scripts": {
+    "test": "intern"
+  },
+  "author": "Oludare Simileoluwa",
+  "license": "ISC"
+}
